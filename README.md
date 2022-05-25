@@ -1,1 +1,1 @@
-# Assignment-17-Practical-3-Using-Html-Javascrpt
+In ths practical teacher gave me 5 questions of javascript and i solved all questions..
