@@ -34,11 +34,10 @@ To get started with this assignment, follow the instructions below:
 1. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/ameer-ali-jamali/Assignment-4-Practical-3-HTML-JavaScript.git
+   git clone https://github.com/ameer-ali-jamali/Assignment-19-Practical-3-HTML-JavaScript.git
    ```
 
 2. Navigate to the assignment directory within the repository.
-
 3. Explore the questions by opening the respective files and read the instructions provided for each question.
 
 ## Usage
